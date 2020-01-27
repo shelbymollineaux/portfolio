@@ -5,6 +5,10 @@ header {
   text-align: center;
 }
 
+.section-header{
+  padding-top: 18vh;
+}
+
 h1 {
   color: hsla(0, 0%, 100%, 0.9);
   font-weight: bold;
@@ -12,7 +16,7 @@ h1 {
 
 .slogan {
   color: hsla(0, 0%, 100%, 0.7);
-  font-weight: lighter;
+  font-weight: bold;
   font-size: 1.6rem;
 }
 
